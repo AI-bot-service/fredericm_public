@@ -32,7 +32,7 @@ AI-продавец для магазина косметики: консульт
 ### Для клиента — консультация и заказ внутри Telegram
 
 <div align="center">
-<img src="telegram_collage.svg" width="760" alt="Telegram интерфейс клиента: диалог, акции, корзина и заказы"/>
+<img src="telegram_collage.jpg" width="860" alt="Telegram интерфейс клиента: диалог, акции, корзина и заказы"/>
 </div>
 
 <br/>
@@ -49,19 +49,7 @@ AI-продавец для магазина косметики: консульт
 Админ-панель помогает владельцу магазина управлять продажами без доступа к коду: смотреть заявки, обновлять каталог, запускать акции, читать диалоги и менять рабочие настройки бота.
 
 <div align="center">
-<img src="web_orders.jpg" width="420" alt="Web-интерфейс заявок"/>
-&nbsp;&nbsp;
-<img src="web_products.jpg" width="420" alt="Web-интерфейс товаров"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="web_dialogs.jpg" width="280" alt="Web-интерфейс диалогов"/>
-&nbsp;&nbsp;
-<img src="web_promotions.jpg" width="280" alt="Web-интерфейс акций"/>
-&nbsp;&nbsp;
-<img src="web_settings.jpg" width="280" alt="Web-интерфейс настроек"/>
+<img src="web_admin_collage.jpg" width="860" alt="Web-интерфейс управления: заявки, товары, диалоги, акции и настройки"/>
 </div>
 
 <br/>
