@@ -15,9 +15,10 @@
   <circle cx="313" cy="145" r="6" fill="#111827"/>
   <circle cx="331" cy="145" r="6" fill="#111827"/>
   <circle cx="349" cy="145" r="6" fill="#111827"/>
-  <text x="410" y="141" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Frederic M</text>
-  <text x="410" y="204" fill="#F8FAFC" fill-opacity=".92" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">AI-консультант в Telegram</text>
-  <text x="412" y="253" fill="#E0F2FE" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">RAG + каталог косметики + заказы + админ-панель</text>
+  <text x="410" y="126" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Frederic M</text>
+  <text x="410" y="188" fill="#F8FAFC" fill-opacity=".92" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">AI-консультант</text>
+  <text x="410" y="232" fill="#F8FAFC" fill-opacity=".92" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">в Telegram</text>
+  <text x="412" y="282" fill="#E0F2FE" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">RAG + каталог косметики + заказы</text>
   <defs>
     <linearGradient id="bg" x1="32" y1="32" x2="928" y2="328" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0EA5E9"/>
