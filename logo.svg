@@ -1,0 +1,28 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="360" rx="32" fill="#111827"/>
+  <rect x="32" y="32" width="896" height="296" rx="28" fill="url(#bg)"/>
+  <circle cx="766" cy="96" r="86" fill="#F472B6" fill-opacity=".20"/>
+  <circle cx="168" cy="274" r="110" fill="#38BDF8" fill-opacity=".16"/>
+  <rect x="124" y="94" width="174" height="174" rx="44" fill="#F8FAFC" fill-opacity=".14" stroke="#F8FAFC" stroke-opacity=".24" stroke-width="3"/>
+  <path d="M158 182c0-31 23-56 53-56s53 25 53 56v22c0 20-16 36-36 36h-34c-20 0-36-16-36-36v-22Z" fill="#F8FAFC"/>
+  <path d="M178 176c0-18 15-33 33-33s33 15 33 33v19c0 12-10 22-22 22h-22c-12 0-22-10-22-22v-19Z" fill="#111827"/>
+  <circle cx="199" cy="183" r="7" fill="#38BDF8"/>
+  <circle cx="224" cy="183" r="7" fill="#38BDF8"/>
+  <path d="M197 204h30" stroke="#38BDF8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M184 124l-16-24M238 124l16-24" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round"/>
+  <rect x="286" y="113" width="86" height="64" rx="20" fill="#F8FAFC"/>
+  <path d="M308 177l-16 30 38-30" fill="#F8FAFC"/>
+  <circle cx="313" cy="145" r="6" fill="#111827"/>
+  <circle cx="331" cy="145" r="6" fill="#111827"/>
+  <circle cx="349" cy="145" r="6" fill="#111827"/>
+  <text x="410" y="141" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Frederic M</text>
+  <text x="410" y="204" fill="#F8FAFC" fill-opacity=".92" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">AI-консультант в Telegram</text>
+  <text x="412" y="253" fill="#E0F2FE" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">RAG + каталог косметики + заказы + админ-панель</text>
+  <defs>
+    <linearGradient id="bg" x1="32" y1="32" x2="928" y2="328" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset=".48" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#DB2777"/>
+    </linearGradient>
+  </defs>
+</svg>
